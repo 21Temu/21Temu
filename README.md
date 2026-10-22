@@ -84,9 +84,9 @@ Hey there! I'm **Temesgen Minwyelet**, a software engineering student and develo
 
 <div align="center">
 
-<a href="https://github.com/21Temu/Melake_Cosmetics">
+<!-- <a href="https://github.com/21Temu/Melake_Cosmetics">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Temu&repo=Melake_Cosmetics&theme=tokyonight&hide_border=true" alt="Melake Cosmetics project"/>
-</a>
+</a> -->
 
 <a href="https://github.com/21Temu/New_Ecommerce">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Temu&repo=New_Ecommerce&theme=tokyonight&hide_border=true" alt="E-commerce project"/>
