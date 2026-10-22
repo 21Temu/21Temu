@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=21Temu&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=21Temu&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/> -->
 
 </div>
 
