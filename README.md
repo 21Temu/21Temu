@@ -26,7 +26,7 @@
 
 ---
 
-<!-- ABOUT ME - PREMIUM CARD -->
+<!-- ABOUT ME -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -55,7 +55,7 @@
 
 ---
 
-<!-- TECH STACK - PREMIUM 3D STYLE -->
+<!-- TECH STACK -->
 <div align="center">
   <h2>⚡ TECH STACK</h2>
   <em>Technologies powering my digital world</em>
@@ -86,7 +86,7 @@
 
 ---
 
-<!-- GITHUB ANALYTICS - COMMAND CENTER -->
+<!-- GITHUB ANALYTICS -->
 <div align="center">
   <h2>📊 GITHUB COMMAND CENTER</h2>
   <em>My coding journey, contributions & development activity</em>
